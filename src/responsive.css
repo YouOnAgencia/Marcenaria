@@ -59,8 +59,6 @@
         opacity: 1 !important;
     }
 
-
-
     .headerContent {
         width: 100%;
         text-align: center;
@@ -120,6 +118,17 @@
         display: block;
         padding: 4px 0;
     }
+
+.iconsWrapper {
+    display: block;
+    /* margin: 0 auto; */
+}
+
+.iconsSingle {
+    max-width: 65px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+  }
 }
 
 @media screen and (max-width: 640px) {
@@ -130,6 +139,8 @@
         text-transform: uppercase;
         font-weight: 500;
     }
+
+    
 }
 
 @media screen and (max-width: 500px) {
