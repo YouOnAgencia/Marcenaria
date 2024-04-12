@@ -23,7 +23,7 @@ function Contato() {
 
                             <div className="contatoInfo">
                                 <FontAwesomeIcon icon={faLocationDot} />
-                                <p>Avenida Morumbi, 1000 | São Paulo - SP </p>
+                                <p>Rua Dois Córregos, 204 - Jardim Bela Vista, Brotas - SP, 17380-000</p>
                             </div>
                         </article>
 

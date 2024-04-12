@@ -47,6 +47,11 @@
     .navDesktop li {
         display: block;
         padding: 10px 0;
+        cursor: pointer;
+    }
+
+    .navDesktop li:hover {
+        background-color: #FF7101;
     }
 
     .navDesktop a {
@@ -93,7 +98,6 @@
 
     .contatoWrapper {
         display: block;
-
     }
 
     form {

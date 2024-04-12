@@ -1,6 +1,5 @@
 import AboutMain from '../Images/aboutMain.jpg'
 
-
 function About() {
 
     return (
