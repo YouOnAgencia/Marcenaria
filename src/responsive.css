@@ -144,6 +144,10 @@
         font-weight: 500;
     }
 
+    .ambientes li {
+        margin: 2px;
+      }
+
     
 }
 
