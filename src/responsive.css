@@ -17,10 +17,10 @@
 }
 
 @media screen and (max-width: 860px) {
-    .nav-list{
+    .nav-list {
         display: none;
     }
-    
+
     .navMobile {
         display: block;
         font-size: 24px;
@@ -110,7 +110,8 @@
         text-align: center;
     }
 
-    .redesSociais, .contatoInfo{
+    .redesSociais,
+    .contatoInfo {
         justify-content: center;
     }
 }
@@ -123,16 +124,16 @@
         padding: 4px 0;
     }
 
-.iconsWrapper {
-    display: block;
-    /* margin: 0 auto; */
-}
+    .iconsWrapper {
+        display: block;
+        /* margin: 0 auto; */
+    }
 
-.iconsSingle {
-    max-width: 65px;
-    margin: 0 auto;
-    padding-bottom: 10px;
-  }
+    .iconsSingle {
+        max-width: 65px;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -146,9 +147,22 @@
 
     .ambientes li {
         margin: 2px;
-      }
+    }
 
-    
+    iframe {
+        width: 98%;
+        margin: 0 auto;
+    }
+
+    .contatoInfo{
+        width: 100%;
+    }
+
+    .contatoInfo p{
+        font-size: 13px;
+        max-width: 98%;
+    }
+
 }
 
 @media screen and (max-width: 500px) {

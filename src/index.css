@@ -57,6 +57,10 @@ header {
   font-size: 1.1em;
 }
 
+.active{
+  color: #FF7101;
+}
+
 .btnNav{
   background-color: #FF7101;
   padding: 8px 8px;
